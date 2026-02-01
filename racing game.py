@@ -50,7 +50,7 @@ def draw_text(screen, text, font, color, x, y, center=False):
 
 # --- STATS & AUDIO MAPPING ---
 CHASSIS_STATS = {
-    "F1":       {"base_spd": 19.5, "accel": 0.6, "turn": 2.4, "base_grip": 0.99, "mass": 800,  "sfx": "eng_v10"},
+    "F1":       {"base_spd": 19.5, "accel": 0.6, "turn": 0.8, "base_grip": 0.99, "mass": 800,  "sfx": "eng_v10"},
     "SUPER":    {"base_spd": 20.0, "accel": 0.55, "turn": 2.0, "base_grip": 0.96, "mass": 1400, "sfx": "eng_w16"},
     "NASCAR":   {"base_spd": 18.5, "accel": 0.50, "turn": 1.8, "base_grip": 0.97, "mass": 1800, "sfx": "eng_v8"},
     "LE_MANS":  {"base_spd": 16.0, "accel": 0.45, "turn": 1.9, "base_grip": 0.98, "mass": 1000, "sfx": "eng_v6"},
