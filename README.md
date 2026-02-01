@@ -1,4 +1,4 @@
-# off_mult_game 🚗
+# CAR RACING GAME  🚗
 
 **A lightweight offline multiplayer racing game (Pygame).**
 
@@ -30,7 +30,10 @@ off_mult_game/
 ```
 
 ---
+# Architecture 
+<img width="1101" height="1358" alt="diagram-export-02-02-2026-01_59_59" src="https://github.com/user-attachments/assets/22307ce7-8ae6-4883-9b85-be4dcf861435" />
 
+___
 ## Quick start ⚡
 
 1. Install dependencies:
@@ -69,7 +72,26 @@ sqlite3 -header -column racing_data.db "SELECT * FROM race_results ORDER BY date
 Or use a GUI like *DB Browser for SQLite* (`brew install --cask db-browser-for-sqlite` on macOS).
 
 ---
+# Gme Overview 
+<img width="1362" height="749" alt="Screenshot 2026-02-02 at 2 06 18 AM" src="https://github.com/user-attachments/assets/b65426f0-6027-4563-98e3-7cbf17c0afd3" />
 
+<img width="1362" height="744" alt="Screenshot 2026-02-02 at 2 06 27 AM" src="https://github.com/user-attachments/assets/e0d512e7-0f09-49ab-9052-e24dea2c802c" />
+
+<img width="1364" height="751" alt="Screenshot 2026-02-02 at 2 06 53 AM" src="https://github.com/user-attachments/assets/cbb38586-8e77-4e29-a151-76320f1d7278" />
+
+<img width="1375" height="746" alt="Screenshot 2026-02-02 at 2 07 30 AM" src="https://github.com/user-attachments/assets/43d37ca9-605e-47c2-913f-8605a82b992c" />
+
+---
+# SQLite (built into Python stdlib)
+
+<img width="1109" height="746" alt="Screenshot 2026-02-02 at 1 15 05 AM" src="https://github.com/user-attachments/assets/155c51fd-4804-4fa3-a290-fe5bd06de8ef" />
+
+<img width="850" height="427" alt="Screenshot 2026-02-02 at 1 33 14 AM" src="https://github.com/user-attachments/assets/7ab76aa6-ca64-442c-a633-67038ab5e170" />
+
+<img width="518" height="626" alt="Screenshot 2026-02-02 at 1 13 33 AM" src="https://github.com/user-attachments/assets/4f2d3225-6b96-4218-8e3f-cf531b5f77a9" />
+
+
+---
 ## Requirements / Dependencies ✅
 
 - Python 3.8+
