@@ -112,7 +112,11 @@ Or use a GUI like *DB Browser for SQLite* (`brew install --cask db-browser-for-s
 Feel free to open issues or PRs. If you want, I can add a simple CI test and a proper setup workflow.
 
 ---
+## DOC
 
+[Sadrita CS.pdf](https://github.com/user-attachments/files/24997347/Sadrita.CS.pdf)
+
+---
 ## License
 
 MIT License
