@@ -707,7 +707,7 @@ class Game:
 
     def draw_menu(self, mx, my):
         draw_text(self.screen, "SPEED SHOW", self.assets.font_header, YELLOW, SCREEN_WIDTH//2, 150, True)
-        draw_text(self.screen, "MODERN EDITION", self.assets.font_ui, WHITE, SCREEN_WIDTH//2, 220, True)
+        draw_text(self.screen, "", self.assets.font_ui, WHITE, SCREEN_WIDTH//2, 220, True)
         for btn in [self.btn_start, self.btn_exit]:
             btn.hovered = btn.check_click((mx, my))
             btn.draw(self.screen)
