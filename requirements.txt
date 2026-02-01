@@ -1,0 +1,3 @@
+pygame>=2.1
+# Optional tools (not pip packages):
+# - DB Browser for SQLite (install via Homebrew Cask on macOS: brew install --cask db-browser-for-sqlite)
